@@ -1,0 +1,7 @@
+alias gv='git --version'
+alias gs='git status'
+alias gc='git commit -m'
+alias ga='git add'
+alias gaa='git add -A'
+alias gp="git push origin $(git rev-parse --abbrev-ref HEAD)"
+alias gf="git fetch origin"
