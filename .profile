@@ -1,1 +1,1 @@
-source ./.gitalias
+source ./.git-alias
